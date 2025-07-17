@@ -28,7 +28,7 @@ Databases & Tools:
 
 
 ## 🔗 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://www.linkedin.com/in/rajwardhan-dhumal-75110b25a/) 
 
 
 
