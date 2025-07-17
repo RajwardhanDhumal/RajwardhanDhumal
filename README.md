@@ -26,29 +26,11 @@ Frameworks & Libraries:
 Databases & Tools:  
 `MySQL` `PostgreSQL` `MongoDB` `Vercel` `NPM`
 
----
 
-## 🚀 Projects
-| Name | Description | Stack |
-|------|-------------|-------|
-| **🎭 Face Emotion Detection** | Real-time face emotion classifier using YOLOv8, MTCNN, and TensorFlow | Python, JS, Spring Boot |
-| **🌿 Plant Disease Detection** | AI model for classifying plant diseases from leaf images | Python, TensorFlow, OpenCV |
-| **🌐 Translation Engine** | Converts input text into multiple target languages simultaneously | Python, JavaScript, Spring, API |
-| **🧠 AI Mini-Projects** | NLP, Computer Vision, and ML model demos | Keras, scikit-learn, Flask |
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
-
----
 
 ## 🔗 Connect with Me
 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Twitter](https://twitter.com/yourhandle)
 
----
 
 
