@@ -3,7 +3,6 @@
  👀 I’m interested in Deep Learning and Java Frameworks
  💞️ I’m looking to collaborate on CLoud
  📫 How to reach me rajwardhandhumal03@gmail.com
- 😄 Pronouns: he/his
 
  💻 Tech Stack:
 # 👋 Hi, I'm Rajwardhan!
