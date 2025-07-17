@@ -7,8 +7,7 @@
  💻 Tech Stack:
 # 👋 Hi, I'm Rajwardhan!
 
-🎓 A passionate software developer, AI enthusiast, and open-source contributor.  
-🏅 National-level gold medalist in badminton | Final-year IT student | Associate Analyst @ [Your Company]
+🎓 A passionate software developer, AI enthusiast, and open-source contributor.
 
 ---
 
