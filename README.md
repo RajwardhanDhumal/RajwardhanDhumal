@@ -16,14 +16,14 @@
 ![Tech Stack](https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/tech-stack.png)
 
 Languages:  
-`C++` `C` `Java` `Python` `JavaScript` `HTML5` `PHP` `Solidity`
+`C++` `C` `Java` `Python` `JavaScript` `HTML5` `PHP` 
 
 Frameworks & Libraries:  
-`Flask` `Node.js` `Express.js` `Next.js` `Keras` `TensorFlow` `PyTorch` `scikit-learn`  
+`Flask` `Node.js` `Keras` `TensorFlow` `PyTorch` `scikit-learn`
 `OpenCV` `Matplotlib` `Pandas` `NumPy`
 
 Databases & Tools:  
-`MySQL` `PostgreSQL` `MongoDB` `Vercel` `NPM`
+`MySQL` `PostgreSQL` `MongoDB` 
 
 
 
