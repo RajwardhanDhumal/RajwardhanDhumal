@@ -13,7 +13,6 @@
 ---
 
 ## 🛠️ Tech Stack
-![Tech Stack](https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/tech-stack.png)
 
 Languages:  
 `C++` `C` `Java` `Python` `JavaScript` `HTML5` `PHP` 
