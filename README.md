@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 Languages:  
-`C++` `C` `Java` `Python` `JavaScript` `HTML5` `PHP` 
+`C++` `C` `Java` `Python` `JavaScript` `HTML5` `PHP` `Android ` 
 
 Frameworks & Libraries:  
 `Flask` `Node.js` `Keras` `TensorFlow` `PyTorch` `scikit-learn`
